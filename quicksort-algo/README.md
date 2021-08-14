@@ -7,7 +7,7 @@ An example to use quicksort in a c++ script would be:
 #include <iostream>
 #include <vector>
 #include <string>
-#include "quicksorter.h"
+#include "quicksort.h"
 
 int main()
 {
